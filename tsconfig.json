@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "outDir": "./dist/",
+        "outDir": "./assets/",
         "sourceMap": true,
         "strict": true,
         "noImplicitReturns": true,
